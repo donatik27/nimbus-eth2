@@ -19,7 +19,7 @@ To keep track of your sync progress, pay attention to the `Slot start` messages 
 
 ```
 INF 2022-06-16 13:23:11.008+02:00 Slot start
-  topics="beacnde"
+  topics="beacnode"
   slot=4046214
   epoch=126444
   sync="00h37m (99.38%) 11.0476slots/s (DDQQDDDPDD:4021215)"
